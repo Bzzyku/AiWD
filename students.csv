@@ -23,7 +23,7 @@ Age ,Gender,AcademicPerformance,TakingNoteInClass,DepressionStatus,FaceChallange
 21,Female,Good,Yes,Yes,No,Yes,6,6,Yes
 25,Male,Good,Yes,Sometimes,No,Yes,4,9,No
 21,Male,Good,Yes,No,Sometimes,No,10,23,Yes
-21,Female,Average,Yes,Sometimes,Sometimes,Yes,7,,Yes
+21,Female,Average,Yes,Sometimes,Sometimes,Yes,7,50,Yes
 25,Male,Average,Sometimes,Sometimes,Sometimes,No,7,0,No
 23,Male,Good,Sometimes,Sometimes,Sometimes,No,5,12,No
 25,Male,Average,Sometimes,Sometimes,Yes,No,8,15,Yes
@@ -31,7 +31,7 @@ Age ,Gender,AcademicPerformance,TakingNoteInClass,DepressionStatus,FaceChallange
 23,Male,Good,Yes,No,No,Yes,8,3,Yes
 23,Female,Average,Sometimes,Sometimes,Yes,No,8,0,Yes
 23,Female,Average,Sometimes,Yes,Sometimes,No,8,2,No
-23,Male,Average,No,Sometimes,Yes,Yes,12,,Yes
+23,Male,Average,No,Sometimes,Yes,Yes,12,34,Yes
 23,Male,Excellent,Sometimes,Yes,No,Yes,8,80,Yes
 24,Male,Average,No,Sometimes,Sometimes,No,8,10,Yes
 20,Female,Good,Yes,Sometimes,Yes,No,5,15,Yes
