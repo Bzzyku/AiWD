@@ -1,5 +1,5 @@
 Age ,Gender,AcademicPerformance,TakingNoteInClass,DepressionStatus,FaceChallangesToCompleteAcademicTask,LikePresentation,SleepPerDayHours,NumberOfFriend,LikeNewThings
-23,Male,Average,No,Sometimes,Yes,Yes,12,,Yes
+23,Male,Average,No,Sometimes,Yes,Yes,12,15,Yes
 23,Male,Excellent,Sometimes,Yes,No,Yes,8,80,Yes
 24,Male,Average,No,Sometimes,Sometimes,No,8,10,Yes
 20,Female,Good,Yes,Sometimes,Yes,No,5,15,Yes
